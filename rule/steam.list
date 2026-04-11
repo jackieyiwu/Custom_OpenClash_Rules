@@ -7,6 +7,11 @@ payload:
   - DOMAIN-SUFFIX,cm.steampowered.com
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN,bahamut.akamaized.net
+  - DOMAIN,gamer-cds.cdn.hinet.net
+  - DOMAIN,gamer2-cds.cdn.hinet.net
+  - DOMAIN-SUFFIX,gamer.com.tw
+  - DOMAIN-SUFFIX,stripchat.com
   - IP-CIDR,103.10.124.0/23,no-resolve
   - IP-CIDR,103.28.54.0/24,no-resolve
   - IP-CIDR,146.66.152.0/24,no-resolve
