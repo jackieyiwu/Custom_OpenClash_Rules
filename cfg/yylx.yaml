@@ -45,7 +45,6 @@ ruleset=🚀 手动选择,[]GEOSITE,gfw
 ruleset=🇬 谷歌服务,[]GEOIP,google,no-resolve
 ruleset=🎥 流媒体,[]GEOSITE,category-entertainment
 ruleset=🎥 流媒体,[]GEOIP,netflix,no-resolve
-ruleset=💏 ST直播,https://gh-proxy.com/https://raw.githubusercontent.com/jackieyiwu/Custom_OpenClash_Rules/refs/heads/main/rule/StripChat.list,28800
 ;由于 OpenClash 使用的大陆白名单收录不全，此处留有 geosite:cn 作为国内域名兜底
 ruleset=🎯 全球直连,[]GEOSITE,cn
 ;由于 OpenClash 使用的大陆白名单收录不全，此处留有 geoip:cn 作为国内 IP 兜底
