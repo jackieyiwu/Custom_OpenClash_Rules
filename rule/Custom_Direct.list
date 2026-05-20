@@ -113,3 +113,5 @@ DOMAIN-SUFFIX,ningtingche.com
 DOMAIN-SUFFIX,guoocang.com
 # GoLink 加速器
 DOMAIN-SUFFIX,golinkapi.com
+# 订阅后端
+DOMAIN-SUFFIX,api.asailor.org
